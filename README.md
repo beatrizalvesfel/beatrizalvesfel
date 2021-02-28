@@ -7,7 +7,7 @@
 
 Tenho dividido o meu tempo livre entre aprofundar meus conhecimentos, tanto de design como de programação e também tenho me dedicado ao [Ouroboros Design](http://ouroborosdesign.uno/), com a intenção de compartilhar conteúdos de forma democratica e acessível sobre Design Visual, Motion, UX Design, Produtividade e todos os sub-assuntos relacionados. </p>
 
-<img align="right" src=".github/devices.png" alt="Devices" width="400" height="600">
+<img align="right" src=".github/devices.png" alt="Devices" width="300" height="400">
 </div>
 
 <hr style="border: 1px solid blue"> </hr>
