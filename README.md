@@ -30,7 +30,7 @@ Tenho dividido o meu tempo livre entre aprofundar meus conhecimentos, tanto de d
 [![Webpack](https://img.shields.io/badge/-Webpack-3066bc?logo=webpack&Color=white&link=https://webpack.js.org/)](https://webpack.js.org/)
 [![ESLint](https://img.shields.io/badge/-ESLint-5900ce?logo=eslint&Color=white&link=https://eslint.org/)](https://eslint.org/)
 [![Expo](https://img.shields.io/badge/-Expo-05001f?logo=Expo&logoColor=white&link=https://expo.io/)](https://expo.io/)
-[![Figma](https://img.shields.io/badge/-Figma-%23ff69b4&link=https://figma.com/)](https://figma.com/)
+[![Figma](https://img.shields.io/badge/-Figma-%23ff69b4)](https://figma.com/)
 
 
 <hr style="border: 1px solid pink"> </hr>
