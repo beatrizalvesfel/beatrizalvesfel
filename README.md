@@ -54,6 +54,8 @@ Tenho dividido o meu tempo livre entre aprofundar meus conhecimentos, tanto de d
       -->
   </tr>  
 </table>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=belapferreira&hide=issues,contribs&count_private=true)](https://github.com/beatrizalvesfel/github-readme-stats)
 <!-- 
 </center>
 <hr style="border: 1px solid pink"> </hr>
