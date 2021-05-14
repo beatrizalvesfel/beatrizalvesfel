@@ -4,7 +4,7 @@
 e apaixonada por design e tecnologias do desenvolvimento Web e Mobile.</h3>
 <br>
 
-Meu caminho na programação começou em 2018, quando ingressei na faculdade (um fato engraçado é que nunca tive a pretensão de estudar SI, pisei no campus querendo me matricular em arquitetura, mas as turmas já tinham fechado, então tinha que escolher entre ADM ou SI, pois não queria esperar, e para minha surpresa, me apaixonei logo na primeira aula e a ideia de mudar o curso, deixou de fazer sentido), desde então, tive a oportunidade de desenvolver praticamente todas as etapas da construção de Web Apps, desde a identificação dos requisitos, modelagem do banco de dados, design, front-end e construção das APIs.
+Meu caminho na programação começou em 2018, quando ingressei na faculdade, desde então, tive a oportunidade de desenvolver praticamente todas as etapas da construção de Web Apps, desde a identificação dos requisitos, modelagem do banco de dados, design, front-end e construção das APIs.
 
 Tenho dividido o meu tempo livre entre aprofundar meus conhecimentos, tanto de design como de programação e também tenho me dedicado ao [Ouroboros Design](http://ouroborosdesign.uno/),, com a intenção de compartilhar conteúdos de forma democrática e acessível sobre Design Visual, Motion, UX Design, Produtividade e todos os sub-assuntos relacionados.
 
