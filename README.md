@@ -45,14 +45,10 @@ Meu caminho na programação começou em 2018, quando ingressei na faculdade, de
 <center>
 <table>
   <tr>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beatrizalvesfel&show_icons=true&locale=en&layout=compact" alt="beatrizalvesfel"/></td>      
-  </tr>  
-    <tr>
-      <td>
-        ![Beatriz Alves's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizalvesfel&hide=contribs,issues)
-      </td>      
-  </tr>  
-![Beatriz Alves's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizalvesfel&hide=issues,contribs&count_private=true)](https://github.com/beatrizalvesfel/github-readme-stats)
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beatrizalvesfel&show_icons=true&locale=en&layout=compact" alt="beatrizalvesfel"/></td>
+    <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=beatrizalvesfel&hide=contribs,issues" alt="beatrizalvesfel"/></td>
+
+  </tr> 
 </table>
 </center>
 <hr style="border: 1px solid pink"> </hr>
