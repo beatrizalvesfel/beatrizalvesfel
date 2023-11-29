@@ -47,7 +47,7 @@ Meu caminho na programação começou em 2018, quando ingressei na faculdade, de
   <tr>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beatrizalvesfel&show_icons=true&locale=en&layout=compact" alt="beatrizalvesfel"/></td>
       
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=beatrizalvesfel&show_icons=true&locale=en" alt="beatrizalvesfel" /></td>
+
       
   </tr>  
 </table>
