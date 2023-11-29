@@ -1,7 +1,7 @@
 <h1 align="center">Bem-Vind@ 👋</h1>
 <div>
-<h3 align="center">Me chamo Beatriz Alves, sou estudante de Sistemas de Informação
-e apaixonada por design e tecnologias do desenvolvimento Web e Mobile.</h3>
+<h3 align="center">Me chamo Beatriz Alves, formada em Sistemas de Informação
+e apaixonada por design e tecnologias do desenvolvimento Web</h3>
 <br>
 
 Meu caminho na programação começou em 2018, quando ingressei na faculdade, desde então, tive a oportunidade de desenvolver praticamente todas as etapas da construção de Web Apps, desde a identificação dos requisitos, modelagem do banco de dados, design, front-end e construção das APIs.
