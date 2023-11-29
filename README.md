@@ -47,6 +47,11 @@ Meu caminho na programação começou em 2018, quando ingressei na faculdade, de
   <tr>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beatrizalvesfel&show_icons=true&locale=en&layout=compact" alt="beatrizalvesfel"/></td>      
   </tr>  
+    <tr>
+      <td>
+        ![Beatriz Alves's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizalvesfel&hide=contribs,issues)
+      </td>      
+  </tr>  
 ![Beatriz Alves's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizalvesfel&hide=issues,contribs&count_private=true)](https://github.com/beatrizalvesfel/github-readme-stats)
 </table>
 </center>
