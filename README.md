@@ -15,6 +15,7 @@ Meu caminho na programação começou em 2018, quando ingressei na faculdade, de
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=TypeScript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&link=https://TheOnlyRealDevLanguage.org)](https://TheOnlyRealDevLanguage.org)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=PostgreSQL&logoColor=white&link=https://www.postgresql.org/)](https://www.postgresql.org/)
+[![Angular](https://camo.githubusercontent.com/a6ea79884cd659473d041ac05dde93688096ff13f019287e06c2ea4ab7b1d402/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d416e67756c617226636f6c6f723d304630463131266c6f676f3d416e67756c6172266c6f676f436f6c6f723d464646464646266c6162656c3d)](https://angular.io/)
 
 <hr style="border: 1px solid pink"> </hr>
 
@@ -41,20 +42,18 @@ Meu caminho na programação começou em 2018, quando ingressei na faculdade, de
 ![GitHub](https://img.shields.io/github/followers/beatrizalvesfel?label=Seguir&style=social&logo=github)
 
 ### Status
-<!-- 
+
 <center>
--->
 <table>
   <tr>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beatrizalvesfel&show_icons=true&locale=en&layout=compact" alt="beatrizalvesfel"/></td>
-      <!-- 
+      
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=beatrizalvesfel&show_icons=true&locale=en" alt="beatrizalvesfel" /></td>
-      -->
+      
   </tr>  
 </table>
 
 [![Beatriz Alves's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizalvesfel&hide=issues,contribs&count_private=true)](https://github.com/beatrizalvesfel/github-readme-stats)
-<!-- 
 </center>
 <hr style="border: 1px solid pink"> </hr>
 
@@ -63,4 +62,3 @@ Meu caminho na programação começou em 2018, quando ingressei na faculdade, de
 _Sistemas de Informação | Mar. de 2018 a Dez. de 2021_   
 Bacharel em Sistemas de Informação
 
--->
