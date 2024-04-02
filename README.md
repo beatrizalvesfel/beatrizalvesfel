@@ -43,15 +43,15 @@ Meu caminho na programação começou em 2018, quando ingressei na faculdade, de
 ### Status
 
 <center>
-<!-- <table> -->
-<!--   <tr> -->
-<!--       <td> -->
+<table>
+  <tr>
+      <td>
         <img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beatrizalvesfel&show_icons=true&locale=en&layout=compact" alt="beatrizalvesfel"/>
-<!-- </td> -->
+</td>
 <!--     <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=beatrizalvesfel&hide=contribs,issues" alt="beatrizalvesfel"/></td>
  -->
-<!--   </tr>  -->
-<!-- </table> -->
+  </tr> 
+</table>
 </center>
 <hr style="border: 1px solid pink"> </hr>
 
