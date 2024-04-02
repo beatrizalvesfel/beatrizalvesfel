@@ -9,11 +9,11 @@ Meu caminho na programação começou em 2018, quando ingressei na faculdade, de
 <hr style="border: 1px solid blue"> </hr>
 
 ### :zap: Stack
-[![JavaScript](https://img.shields.io/badge/javascript-grey?logo=javascript)
-[![React](https://img.shields.io/badge/React-grey?logo=React)
-[![TypeScript](https://img.shields.io/badge/TypeScript-grey?logo=TypeScript)
-[![Node LTS](https://img.shields.io/node/v-lts/:packageName)
-[![jsDelivr hits (npm scoped)](https://img.shields.io/jsdelivr/npm/:period/:scope/:packageName)
+![JavaScript](https://img.shields.io/badge/javascript-grey?logo=javascript)
+![React](https://img.shields.io/badge/React-grey?logo=React)
+![TypeScript](https://img.shields.io/badge/TypeScript-grey?logo=TypeScript)
+![Node LTS](https://img.shields.io/badge/node-grey?logo=node)
+![Angular](https://img.shields.io/badge/angular-grey?logo=angular)
 
 
 <hr style="border: 1px solid pink"> </hr>
