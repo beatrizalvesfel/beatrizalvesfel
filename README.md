@@ -10,10 +10,10 @@ Meu caminho na programação começou em 2018, quando ingressei na faculdade, de
 
 ### :zap: Stack
 ![JavaScript](https://img.shields.io/badge/javascript-grey?logo=javascript)
+![Angular](https://img.shields.io/badge/angular-grey?logo=angular)
 ![React](https://img.shields.io/badge/React-grey?logo=React)
 ![TypeScript](https://img.shields.io/badge/TypeScript-grey?logo=TypeScript)
 ![Node LTS](https://img.shields.io/badge/node-grey?logo=node)
-![Angular](https://img.shields.io/badge/angular-grey?logo=angular)
 
 
 <hr style="border: 1px solid pink"> </hr>
@@ -22,10 +22,6 @@ Meu caminho na programação começou em 2018, quando ingressei na faculdade, de
 [![Git](https://img.shields.io/badge/-Git-f1361f?logo=Git&logoColor=white&link=https://git-scm.com/)](https://git-scm.com/)
 [![VsCode](https://img.shields.io/badge/-VSCode-397ef8?logo=visual-studio-code&Color=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)
 [![Yarn](https://img.shields.io/badge/-Yarn-141631?logo=yarn&Color=white&link=https://yarnpkg.com/)](https://yarnpkg.com/)
-[![Docker](https://img.shields.io/badge/-Docker-2b7dde?logo=Docker&logoColor=white&link=https://www.docker.com/)](https://www.docker.com/)
-[![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=white&Color=white&link=https://www.postman.com/)](https://www.postman.com/)
-[![Babel](https://img.shields.io/badge/-Babel-000?logo=babel&Color=white&link=https://babeljs.io/)](https://babeljs.io/)
-[![Webpack](https://img.shields.io/badge/-Webpack-3066bc?logo=webpack&Color=white&link=https://webpack.js.org/)](https://webpack.js.org/)
 [![ESLint](https://img.shields.io/badge/-ESLint-5900ce?logo=eslint&Color=white&link=https://eslint.org/)](https://eslint.org/)
 [![Expo](https://img.shields.io/badge/-Expo-05001f?logo=Expo&logoColor=white&link=https://expo.io/)](https://expo.io/)
 [![Figma](https://img.shields.io/badge/-Figma-%23ff69b4)](https://figma.com/)
