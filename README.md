@@ -32,9 +32,6 @@ Meu caminho na programação começou em 2018, quando ingressei na faculdade, de
 ### :mag: Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-alves-548757162/)](https://www.linkedin.com/in/beatriz-alves-548757162/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?logo=Instagram&logoColor=white&link=https://www.instagram.com/ouroborosdesign_/)](https://www.instagram.com/ouroborosdesign_/)
-[![Email](https://img.shields.io/badge/-Email-de4343?logo=Gmail&logoColor=white&link=mailto:beatriz@ouroborosdesign.uno)](mailto:beatriz@ouroborosdesign.uno)
-![GitHub](https://img.shields.io/github/followers/beatrizalvesfel?label=Seguir&style=social&logo=github)
 
 ### Status
 
