@@ -4,7 +4,11 @@
 e apaixonada por design e tecnologias do desenvolvimento Web</h3>
 <br>
 
-Meu caminho na programação começou em 2018, quando ingressei na faculdade, desde então, tive a oportunidade de desenvolver praticamente todas as etapas da construção de Web Apps, desde a identificação dos requisitos, modelagem do banco de dados, design, front-end e construção das APIs.
+Sou programadora front-end com uma forte paixão por criar interfaces de usuário intuitivas e responsivas. Com experiência em Angular e React, desenvolvo aplicações web modernas e dinâmicas, sempre buscando a melhor experiência para o usuário final.
+
+Minha trajetória na programação não se limita ao front-end. Tive a oportunidade de me aprofundar em áreas complementares, utilizando Node.js para o desenvolvimento back-end e tecnologias como  MongoDB e PostgreSQL. Essa experiência diversificada me permite ter uma visão mais completa do desenvolvimento de software, facilitando a comunicação entre as diferentes equipes e garantindo a qualidade em todas as etapas do projeto.
+
+Estou sempre em busca de novos desafios que me permitam crescer tanto profissional quanto pessoalmente, e acredito que a aprendizagem contínua é essencial para se manter relevante na área da tecnologia. Se você está à procura de alguém que traga inovação, comprometimento e uma abordagem colaborativa ao seu projeto, vamos conversar!
 
 <hr style="border: 1px solid blue"> </hr>
 
